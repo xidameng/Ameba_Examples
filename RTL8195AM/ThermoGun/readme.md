@@ -10,3 +10,6 @@ built-in library manager (just search for these libraries and click install)
 
 ## Connection
 pin connection is specified in the code
+
+## 3D printing
+CAD files have been provided for 3D printing, please download the "LShell.stl" and "RShell.stl" inside this folder
